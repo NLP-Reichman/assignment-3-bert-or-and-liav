@@ -1,0 +1,16 @@
+# Training / logging artifacts
+ner_out/
+ner_sweep/
+wandb/
+*.pt
+*.bin
+checkpoint-*/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
